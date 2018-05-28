@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QRAbsent Admin</string>
+    <string name="app_name_main">QRAbsent</string>
+    <string name="app_name_create">Create Seminar</string>
+    <string name="app_name_scanner">Scanner</string>
+    <string name="app_name_manage">Manage Seminar</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="btn_login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">Logout</string>
+    <string name="main">Main</string>
+    <string name="login">Login</string>
+
+    <string name="seminar_name">Seminar Name</string>
+    <string name="seminar_description">Description</string>
+    <string name="add_date">Add Date</string>
+
+    <string name="delete_seminar">Delete Seminar</string>
+    <string name="scan_seminar">Scanner Seminar</string>
+    <string name="update_seminar">Update Seminar</string>
+    <string name="update_record_form">Update Record Form</string>
+    <string name="app_name_show">Show Seminar</string>
+    <string name="update_seminar_form">Update Seminar Form</string>
+
+
+</resources>
